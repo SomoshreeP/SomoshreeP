@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SomoshreeP.
 - 👀 I’m interested in: exploring coding related technical part.
 - 🌱 I’m currently learning: DSA in Java and CPP.
-- 😄 Pronouns: She.
+- 😄 Pronoun: She.
 - ⚡ Fun fact: I also find fun in different co-curriculum activities.
 
 <!---
