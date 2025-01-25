@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SomoshreeP.
-- 👀 I’m interested in: exploring coding related technical part.
+- 👀 I’m interested in: exploring coding related technical part.(web development)
 - 🌱 I’m currently learning: DSA in Java and CPP.
 - 😄 Pronoun: She.
 - ⚡ Fun fact: I also find fun in different co-curriculum activities.
